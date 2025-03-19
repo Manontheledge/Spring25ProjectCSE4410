@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b748714ea51b5f844ba669d6884ec3c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rocketPF: {fileID: 7240817454661212553, guid: 2fa725580a1aa2c43b33b8541452b97f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
