@@ -14,7 +14,7 @@ Xiomar Rubalcava- UI,HUD, and Supplimentary functions
 
 Reed- Game Sounds 
 Alex
-Devean - Weapon Pick up, Related Game Events, 
+Devean - Weapon Pick up, Related Game Events, Player Shooting 
 
 
 Unity store Assests that dont fit but can be installed using package manager:
