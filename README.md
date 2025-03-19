@@ -1,9 +1,8 @@
 # Spring25ProjectCSE4410
 decription:
-rougelite shooter in which the objective is eliminating all the enemy's. Pick Up Packages for the 4 weapon types
-
-
-
+A rougelite first person shooter, where the primary (and only) objective is to eliminate the enemies without touching them.
+The game includes several pickups, each of which are the different weapons in the game.
+Each weapon includes a different fire mode, a different fire rate, and magazine size.
 
 
 
@@ -14,7 +13,7 @@ Xiomar Rubalcava- UI,HUD, and Supplimentary functions
 
 Reed- Game Sounds 
 
-Alex
+Alex - Contributions to UI, Code Organization, Loss condition, and debugging.
 
 Devean - Weapon Pick up, Related Game Events, 
 
